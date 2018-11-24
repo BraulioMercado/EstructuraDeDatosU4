@@ -1,0 +1,7 @@
+C:\Users\braul\source\repos\ExamenUnidad4Ejercicio2\ExamenUnidad4Ejercicio2\bin\Debug\ExamenUnidad4Ejercicio2.exe.config
+C:\Users\braul\source\repos\ExamenUnidad4Ejercicio2\ExamenUnidad4Ejercicio2\bin\Debug\ExamenUnidad4Ejercicio2.exe
+C:\Users\braul\source\repos\ExamenUnidad4Ejercicio2\ExamenUnidad4Ejercicio2\bin\Debug\ExamenUnidad4Ejercicio2.pdb
+C:\Users\braul\source\repos\ExamenUnidad4Ejercicio2\ExamenUnidad4Ejercicio2\obj\Debug\ExamenUnidad4Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\braul\source\repos\ExamenUnidad4Ejercicio2\ExamenUnidad4Ejercicio2\obj\Debug\ExamenUnidad4Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\ExamenUnidad4Ejercicio2\ExamenUnidad4Ejercicio2\obj\Debug\ExamenUnidad4Ejercicio2.exe
+C:\Users\braul\source\repos\ExamenUnidad4Ejercicio2\ExamenUnidad4Ejercicio2\obj\Debug\ExamenUnidad4Ejercicio2.pdb
